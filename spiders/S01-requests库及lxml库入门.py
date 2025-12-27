@@ -4,7 +4,7 @@ import pandas as pd
 import requests
 from lxml import etree
 
-url = "https://spiderbuf.cn/web-scraping-practice/requests-lxml-for-scraping-beginner"
+url = "https://spiderbuf.cn/playground/s01"
 
 # 获取脚本所在目录
 script_dir = Path(__file__).parent
