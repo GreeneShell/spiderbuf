@@ -10,5 +10,5 @@ wheels/
 .venv
 
 # Scrapy-specific ignores
-./spiders/temp_files/
-./spiders/tencent_videos/
+spiders/temp_files/
+spiders/tencent_videos/
