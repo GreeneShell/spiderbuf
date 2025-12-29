@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Scrapy-specific ignores
+./spiders/temp_files/
+./spiders/tencent_videos/
